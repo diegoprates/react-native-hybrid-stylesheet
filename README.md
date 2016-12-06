@@ -9,7 +9,7 @@ Allow you to create different styles for Android and iOS.
 ## Usage
 ```javascript
 
-import StyleSheet from 'react-native-hybrid-css';
+import StyleSheet from 'react-native-hybrid-stylesheet';
 
 const styles = StyleSheet.create({
     container: {
