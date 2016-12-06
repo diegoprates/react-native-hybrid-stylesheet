@@ -1,0 +1,19 @@
+{
+  "name": "react-native-hybrid-stylesheet",
+  "version": "0.0.1",
+  "description": "Allow you to create different styles for Android and iOS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "css",
+    "style"
+  ],
+  "author": "Diego Prates",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "0.39.0"
+  }
+}
