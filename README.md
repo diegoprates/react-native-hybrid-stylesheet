@@ -3,7 +3,7 @@ react-native-hybrid-stylesheet
 Allow you to create different styles for Android and iOS.
 
 ## Installation
- `npm install @diegoprates/react-react-native-hybrid-stylesheet`
+ `npm i react-native-hybrid-stylesheet --save`
 
 
 ## Usage
